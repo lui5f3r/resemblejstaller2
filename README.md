@@ -16,14 +16,23 @@ Entrega un porcentaje que indica que tan diferente es una imagen de otra, las di
 ## ¿Qué opciones se pueden seleccionar al realizar la comparación ?
 
 Ignore Nothing
+
 Ignore Less
+
 Ignore Colors
+
 Ignore Antialiasing
+
 Ignore Alpha
+
 Use Original Size
+
 Scale to same size
+
 Pink/yellow for differences
+
 Opaque/Transparent
+
 Flat/movement/flat with diff intensity/movement with diff intensity/diff portion from the input
 
 
